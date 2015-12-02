@@ -1,0 +1,28 @@
+name: JawnLam
+favicon: null
+layout_spectrum: 0.36078378721140325
+typography_spectrum: 0.5113117566797882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2090700005646795
+  lightness: 0.3081792541779578
+  saturation: 0.18482525879517198
+  rhythmicContrast: 0.20043110963888466
+purpose: []
